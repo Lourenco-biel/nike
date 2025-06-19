@@ -22,9 +22,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-A modern travel agency platform with an admin dashboard and public site. Generate AI-powered trip itineraries based on country, travel style, interests, group type, and budget — and book trips with ease.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
+This is a responsive landing page inspired by Nike, built to enhance my skills with Tailwind CSS. The project uses React with Vite for fast development and hot reloading. The layout emphasizes clean design, responsive structure, and modern UI components, showcasing the power and flexibility of Tailwind CSS in real-world interfaces.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
