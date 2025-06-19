@@ -17,7 +17,7 @@
 
 ## 👨‍💻Link para acesso:
 
-<a target="_blank" rel="noopener noreferrer" href="https://nike-tailw1ndcss.netlify.app/">Aperte aqui ⬅ </a>
+[🔗 Aperte aqui ⬅](https://nike-tailw1ndcss.netlify.app/)
 
 ## 📋 <a name="table">Table of Contents</a>
 
